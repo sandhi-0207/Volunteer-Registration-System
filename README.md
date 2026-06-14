@@ -23,10 +23,12 @@ Password: 1234
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/admin-login)
+![admin_login](screenshots/admin_login)
+![admin-login](screenshots/admin-login)
 
 ### Registration Form
-![index](screenshots/index-register)
+![index](screenshots/index)
+![index-register](screenshots/index-register)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![dashboard.php](screenshots/dashboard.png)
