@@ -31,4 +31,4 @@ Password: 1234
 ![index-register](screenshots/index-register.jpg)
 
 ### Dashboard
-![dashboard.php](screenshots/dashboard.jpg)
+![dashboard.php.jpg](screenshots/dashboard.jpg)
