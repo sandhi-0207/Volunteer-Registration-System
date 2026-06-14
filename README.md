@@ -19,3 +19,14 @@ Features:
 Login:
 Username: admin
 Password: 1234
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/admin-login)
+
+### Registration Form
+![index](screenshots/index-register)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
